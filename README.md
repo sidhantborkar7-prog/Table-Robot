@@ -17,7 +17,7 @@ An expressive desktop companion built using an <b>ESP32-C3 Super Mini</b> and a 
 
 ---
 
-# 📖 Overview
+#  Overview
 
 Table Robot is a small interactive desktop companion that brings personality to your workspace.
 
@@ -27,7 +27,7 @@ The project is built around the **ESP32-C3 Super Mini**, a **0.96" SSD1306 OLED 
 
 ---
 
-# ✨ Features
+#  Features
 
 - 😴 Sleep mode
 - 😊 Idle face
@@ -44,7 +44,7 @@ The project is built around the **ESP32-C3 Super Mini**, a **0.96" SSD1306 OLED 
 
 ---
 
-# 🎮 Touch Controls
+#  Touch Controls
 
 | Gesture | Action |
 |---------|--------|
@@ -59,7 +59,7 @@ The project is built around the **ESP32-C3 Super Mini**, a **0.96" SSD1306 OLED 
 
 ---
 
-# 🛠 Hardware Required
+#  Hardware Required
 
 | Component | Quantity |
 |------------|---------:|
@@ -71,7 +71,7 @@ The project is built around the **ESP32-C3 Super Mini**, a **0.96" SSD1306 OLED 
 
 ---
 
-# 🔌 Wiring
+#  Wiring
 
 ## OLED Display
 
@@ -94,7 +94,7 @@ The project is built around the **ESP32-C3 Super Mini**, a **0.96" SSD1306 OLED 
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```
 Table-Robot/
@@ -121,7 +121,7 @@ Table-Robot/
 
 ---
 
-# 📚 Libraries Used
+#  Libraries Used
 
 Install the following libraries from the Arduino Library Manager.
 
@@ -156,7 +156,7 @@ WeatherClock.h
 
 ---
 
-# 📍 Changing the Weather Location
+#  Changing the Weather Location
 
 Simply edit the following lines inside **WeatherClock.h**
 
@@ -188,7 +188,7 @@ String country = "IN";
 
 ---
 
-# 🕒 Time Synchronization
+#  Time Synchronization
 
 The clock uses the ESP32's built-in NTP support.
 
@@ -204,7 +204,7 @@ You can change this for your country.
 
 ---
 
-# 🚀 Getting Started
+#  Getting Started
 
 ## 1. Clone Repository
 
@@ -269,36 +269,9 @@ Upload the sketch.
 
 ---
 
-# 🎥 Demo
-
-## Idle
-
-<p align="center">
-<img src="images/idle.gif" width="250">
-</p>
-
----
-
-## Love
-
-<p align="center">
-<img src="images/love.gif" width="250">
-</p>
-
----
-
-## Weather
-
-<p align="center">
-<img src="images/weather.gif" width="250">
-</p>
-
----
-
-# 💡 Future Improvements
+#  Future Improvements
 
 - 🎤 Voice Assistant
-- 🔋 Battery Monitoring
 - 📅 Calendar
 - 🌧 Animated Weather Icons
 - ☁ OTA Firmware Updates
@@ -306,28 +279,11 @@ Upload the sketch.
 - 📶 Bluetooth Configuration
 - 😊 More Facial Expressions
 - 🔊 Sound Effects
-- 🤖 Servo Head Movement
-- 🎵 Bluetooth Speaker Mode
 - 💬 ChatGPT Integration
-- 📸 Camera Support
-- 😄 Emotion Recognition
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome!
-
-Feel free to:
-
-- Open an Issue
-- Submit a Pull Request
-- Suggest Improvements
-- Report Bugs
-
----
-
-# 📄 License
+#  License
 
 This project is licensed under the MIT License.
 
@@ -335,7 +291,7 @@ See the **LICENSE** file for details.
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you found this project useful,
 
