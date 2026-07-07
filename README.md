@@ -112,9 +112,7 @@ Table-Robot/
 │
 ├── images/
 │   ├── robot.jpg
-│   ├── wiring.png
-│   └── demo.gif
-│
+│ 
 ├── README.md
 └── LICENSE
 ```
