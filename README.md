@@ -112,6 +112,8 @@ Table-Robot/
 │
 ├── images/
 │   ├── robot.jpg
+│   ├── table_robot_banner.png
+│
 │ 
 ├── README.md
 └── LICENSE
