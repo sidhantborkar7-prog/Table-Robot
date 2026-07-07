@@ -46,11 +46,11 @@ private:
     unsigned long lastWeatherUpdate;
 
     // WiFi credentials
-    const char *ssid = "Mochi";
-    const char *password = "Esp32@321";
+    const char *ssid = "YOUR_WIFI_NAME";
+    const char *password = "YOUR_WIFI_PASSWORD";
 
     // OpenWeather settings
-    String apiKey = "1053cacc28febb66d06ecac70a0464bf";
+    String apiKey = "YOUR_API_KEY";
     String city = "Nagpur";
     String country = "IN";
 };
